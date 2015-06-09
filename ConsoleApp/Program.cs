@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Git work!");
             Console.WriteLine("Git hub!");
+            Console.Read();
         }
     }
 }
