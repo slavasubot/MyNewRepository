@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
@@ -12,6 +8,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Git work!");
             Console.WriteLine("Git hub!");
+            Console.WriteLine("Development process!");
             Console.Read();
         }
     }
